@@ -1,7 +1,5 @@
 # CO2 Emissions Prediction using Sentinel-5P Data
 
-![CO2 Emissions](https://github.com/Dev-ASingh/Rwanda_CO2_emission_prediction/blob/Master/images/africa_smoking.jpg)
-
 ## Introduction
 
 This repository contains a Jupyter Notebook that demonstrates how to predict CO2 emissions in Rwanda using open-source data from Sentinel-5P satellite observations. The notebook aims to create machine learning models that utilize emissions data to forecast carbon emissions, contributing to the understanding of carbon emissions patterns and enabling governments and organizations to estimate carbon emission levels across Africa.
