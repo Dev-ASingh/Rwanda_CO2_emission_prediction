@@ -1,6 +1,6 @@
 # CO2 Emissions Prediction using Sentinel-5P Data
 
-![CO2 Emissions](https://www.bing.com/images/create/panoramic-image-of-africa-with-smoke-covering-rwan/64da3960f1cc4147b3cf15abf51c6e7f?id=IQP600KX5tNpWcPSgqKLeQ%3D%3D&view=detailv2&idpp=genimg&idpclose=1&form=SYDBIC)
+![CO2 Emissions](https://github.com/Dev-ASingh/Rwanda_CO2_emission_prediction/blob/Master/Files/africa_smoking.jpg)
 
 ## Introduction
 
