@@ -10,6 +10,19 @@ This repository contains a Jupyter Notebook that demonstrates how to predict CO2
 
 The dataset includes data collected from approximately 497 unique locations in Rwanda. Weekly features were extracted from Sentinel-5P satellite observations. These features encompass Sulphur Dioxide, Carbon Monoxide, Nitrogen Dioxide, Formaldehyde, UV Aerosol Index, Ozone, and Cloud information.
 
+<!-- Data Download Instructions -->
+
+**Data Download Instructions:**
+
+To access the original dataset used in this project, you can follow these steps:
+
+1. Click the "download all" button to download all the original data from the Kaggle competition page: [Download Data](https://www.kaggle.com/competitions/playground-series-s3e20/data)
+
+Please note that the original dataset contains the necessary information for the CO2 emissions prediction project.
+
+<!-- End of Data Download Instructions -->
+
+
 ## Notebook Contents
 
 ### 1. Data Preprocessing
