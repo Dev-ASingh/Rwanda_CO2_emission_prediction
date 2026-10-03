@@ -56,3 +56,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Portfolio Preview
+
+![Rwanda CO2 emissions preview](assets/portfolio-preview.png)
